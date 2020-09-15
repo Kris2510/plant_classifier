@@ -1,1 +1,1 @@
-# plant_classifier
+Several implementations of an image classifier in different frameworks.
